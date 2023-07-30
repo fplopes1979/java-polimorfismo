@@ -1,0 +1,14 @@
+1. Sobrecarga ok
+2. Sobrescrita ok
+3. Principio da substituição ou conversão implícita ok
+4. Casting ou conversão explícita ok
+5. Classes abstratas ok
+6. Interfaces
+
+Interfaces em Java são um recurso poderoso que permite definir um conjunto de métodos que uma classe deve implementar.
+Elas são como contratos, especificando quais comportamentos uma classe deve fornecer sem se preocupar com a implementação interna
+desses comportamentos. Em outras palavras, uma interface é uma "forma" que a classe deve seguir.
+
+As interfaces são muito úteis quando queremos que diferentes classes tenham comportamentos em comum,
+ mas não queremos forçar uma hierarquia de classes específica através da herança.
+ Isso promove maior flexibilidade e reuso de código.
